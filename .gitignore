@@ -1,0 +1,9 @@
+# Raw and scored review files contain reviewer usernames and profile-image URLs; keep them local.
+data/*
+!data/README.md
+*.csv
+!results/*.csv
+*.xlsx
+.ipynb_checkpoints/
+__pycache__/
+.venv/

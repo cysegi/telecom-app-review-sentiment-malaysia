@@ -1,0 +1,12 @@
+google-play-scraper
+pandas
+openpyxl
+numpy
+scipy
+nltk
+langdetect
+deep-translator
+tqdm
+regex
+matplotlib
+wordcloud

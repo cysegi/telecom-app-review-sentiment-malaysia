@@ -1,0 +1,4 @@
+provider,app_id,reviews_collected,reviews_scored,positive,neutral,negative,positive_pct,neutral_pct,negative_pct,mean_vader_compound,mean_star_rating,review_window
+CelcomDigi,com.celcomdigi.selfcare,5174,5156,1352,1219,2585,26.2,23.6,50.1,-0.145,1.33,2026-01-19 to 2026-04-25
+Maxis,com.maxis.mymaxis,5174,5051,2450,1121,1480,48.5,22.2,29.3,0.084,2.85,2021-03-18 to 2026-04-25
+U Mobile,com.omesti.myumobile,5174,5045,1780,1228,2037,35.3,24.3,40.4,-0.050,2.20,2023-06-24 to 2026-04-25
