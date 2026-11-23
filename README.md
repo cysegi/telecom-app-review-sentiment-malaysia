@@ -53,3 +53,7 @@ Run a collection notebook, then the matching analysis notebook.
 ## Data and privacy
 
 Raw review files are excluded because they contain reviewer names and profile images. See [`data/README.md`](data/README.md).
+
+## Credits
+
+The cleaning and VADER scoring notebook structure is adapted from ABM503D Web and Social Media Analytics lab material (Prof. Dr. Nor Hasliza Md Saad, Universiti Sains Malaysia). The three-provider collection, the translation workflow, and the comparison analysis extend that template.
